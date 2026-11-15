@@ -1,6 +1,3 @@
-Previous: ![Homelab/01 - Proxmox Homelab.md](01 - Proxmox Homelab)
-Next: [[03 - Secure Remote Access with Tailscale]]
-
 > **Note**: Threat modeling is a consistently evolving practice. 
 > As technology advances, such as quantum computing or AI-assisted threats, this writeup will be updated periodically from time to time to reflect current security standards. 
 
