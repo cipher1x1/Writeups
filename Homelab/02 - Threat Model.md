@@ -1,4 +1,4 @@
-Previous: [[01 - Proxmox Homelab]]
+Previous: ![Homelab/01 - Proxmox Homelab.md](01 - Proxmox Homelab)
 Next: [[03 - Secure Remote Access with Tailscale]]
 
 > **Note**: Threat modeling is a consistently evolving practice. 
@@ -57,5 +57,5 @@ This looks pretty clean and easy to follow, right? Well, it is missing something
 A lot of these may sound ridiculous on paper for a homelab, but they are very possible threats to the homelab. That's why its also important to label potential non-human threats.
 
 
-In this case, we only have to backup our data using the 3-2-1 rule; use the original copy of the data along with 2 separate backups.
+In this case, for mitigation we only have to backup our data using the 3-2-1 rule; use the original copy of the data along with 2 separate backups.
 In my case, everything really important is backed up on a USB flash drive and an external HDD, with some of it in the cloud encrypted with GPG.
