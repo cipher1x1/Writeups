@@ -1,4 +1,3 @@
-[[02 - Threat Model]]
 
 Occasionally, you will need to access a server you are running on your homelab whilst you are away from home.
 
